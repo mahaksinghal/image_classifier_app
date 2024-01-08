@@ -1,0 +1,8 @@
+streamlit
+torch
+torchvision
+captum
+matplotlib
+numpy
+PIL
+# pip install -r "Data Analysis\requirements.txt"
